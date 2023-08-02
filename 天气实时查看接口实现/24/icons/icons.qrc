@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/weatherIco">
+        <file>search.ico</file>
+        <file>location.ico</file>
+        <file>leaf.ico</file>
+        <file>refresh.ico</file>
+        <file>close.ico</file>
+    </qresource>
+</RCC>
