@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtQQ", "QtQQ\QtQQ.vcxproj", "{8F082784-07FD-4E47-B9E1-3F22BDFF02E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F082784-07FD-4E47-B9E1-3F22BDFF02E6}.Debug|x64.ActiveCfg = Debug|x64
+		{8F082784-07FD-4E47-B9E1-3F22BDFF02E6}.Debug|x64.Build.0 = Debug|x64
+		{8F082784-07FD-4E47-B9E1-3F22BDFF02E6}.Release|x64.ActiveCfg = Release|x64
+		{8F082784-07FD-4E47-B9E1-3F22BDFF02E6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02946A0F-CA62-4048-AD9A-21A0EEEA1738}
+	EndGlobalSection
+EndGlobal

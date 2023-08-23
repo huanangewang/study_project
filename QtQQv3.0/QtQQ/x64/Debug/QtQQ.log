@@ -1,0 +1,3 @@
+﻿  TalkWindowShell.cpp
+h:\vs2017_text\qtqqxin\qtqq\qtqq\talkwindowshell.cpp(201): warning C4806: “|”: 不安全操作: 从类型“bool”提升到类型“QIODevice::OpenModeFlag”的值不能等于给定的常量
+  QtQQ.vcxproj -> H:\Vs2017_text\QtQQxin\QtQQ\x64\Debug\QtQQ.exe
