@@ -1,0 +1,9 @@
+﻿  CCMainWindow.cpp
+h:\vs2017_text\qtqqxin\qtqq\qtqq\mainscene.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+h:\vs2017_text\qtqqxin\qtqq\qtqq\config.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+h:\vs2017_text\qtqqxin\qtqq\qtqq\map.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+h:\vs2017_text\qtqqxin\qtqq\qtqq\heroplane.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+h:\vs2017_text\qtqqxin\qtqq\qtqq\bullet.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+h:\vs2017_text\qtqqxin\qtqq\qtqq\enemyplane.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+h:\vs2017_text\qtqqxin\qtqq\qtqq\bomb.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QtQQ.vcxproj -> H:\Vs2017_text\QtQQxin\QtQQ\x64\Debug\QtQQ.exe
